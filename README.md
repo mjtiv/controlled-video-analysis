@@ -143,6 +143,17 @@ controlled-video-analysis/
 │   ├── analysis_results.json
 │   ├── analysis_results_table.csv
 │   └── frames/
+│       ├── frame_000_t0.00.jpg
+│       ├── frame_001_t1.00.jpg
+│       ├── frame_002_t2.00.jpg
+│       ├── frame_003_t3.00.jpg
+│       ├── frame_004_t4.00.jpg
+│       ├── frame_005_t5.00.jpg
+│       ├── frame_006_t6.00.jpg
+│       ├── frame_007_t7.00.jpg
+│       ├── frame_008_t8.00.jpg
+│       ├── frame_009_t9.00.jpg
+│       └── frame_010_t10.00.jpg
 ├── green_car_video_clip.mp4
 
 ---
