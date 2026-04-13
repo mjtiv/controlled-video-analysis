@@ -9,7 +9,7 @@ Designed for **auditability, reproducibility, and real-world workflows** such as
 ## 🚀 Overview
 
 <p align="center">
-  <img src="images/pipeline_overview.png" width="95%">
+  <img src="summary_figure_video_analysis_pipeline.png" width="95%">
 </p>
 
 This project demonstrates a **controlled, inspectable AI pipeline** for analyzing video content.
