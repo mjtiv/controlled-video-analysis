@@ -173,6 +173,35 @@ Below is a full pipeline execution, showing:
   <img src="images/full_software_run.png" width="90%">
 </p>
 
+## 🎯 Visual Verification (Frame Progression)
+
+Below are selected frames showing the model’s classification over time:
+
+- **t = 0.00s** → object begins to appear (partial visibility)
+- **t = 4.00s** → object clearly present
+- **t = 10.00s** → object no longer present
+
+<p align="center">
+  <img src="sample_outputs/frames/frame_000_t0.00.jpg" width="30%">
+  <img src="sample_outputs/frames/frame_004_t4.00.jpg" width="30%">
+  <img src="sample_outputs/frames/frame_010_t10.00.jpg" width="30%">
+</p>
+
+## 📊 Structured Output (CSV View)
+
+Below is a tabular view of the results, showing:
+
+- frame-by-frame classification
+- confidence scores
+- token usage per frame
+- structured notes for auditability
+
+<p align="center">
+  <img src="docs/images/example_table_output.png" width="95%">
+</p>
+
+These results are generated automatically from the JSON output and exported to CSV for easy filtering, sorting, and downstream analysis.
+
 ---
 
 ## 🧠 Design Philosophy
