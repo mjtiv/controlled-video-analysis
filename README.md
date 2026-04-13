@@ -136,6 +136,7 @@ setx OPENAI_API_KEY "your_key_here"
 
 ## 📁 Structure
 
+```text
 controlled-video-analysis/
 ├── Agent_Video_Processor_1.4.py
 ├── README.md
