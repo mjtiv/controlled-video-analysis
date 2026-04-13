@@ -206,6 +206,14 @@ Below is a tabular view of the results, showing:
 
 These results are generated automatically from the JSON output and exported to CSV for easy filtering, sorting, and downstream analysis.
 
+Token usage per frame also provides a useful diagnostic signal:
+
+- **Higher token counts** can indicate more complex scenes or dense visual information  
+- **Unexpected spikes** may suggest anomalies (e.g., corrupted frames, unusual content, or misclassification)  
+- **Consistent token patterns** across frames help validate stable, deterministic processing  
+
+This makes token tracking not just a cost metric, but a lightweight tool for monitoring data quality and model behavior.
+
 ---
 
 ## 🧠 Design Philosophy
