@@ -160,6 +160,21 @@ controlled-video-analysis/
 
 ---
 
+## 🖥️ Example Run Output
+
+Below is a full pipeline execution, showing:
+
+- frame extraction
+- per-frame classification
+- confidence scores
+- token usage and cost tracking
+
+<p align="center">
+  <img src="docs/images/run_output.png" width="90%">
+</p>
+
+---
+
 ## 🧠 Design Philosophy
 
 AI should be **controlled, inspectable, and accountable** — not a black box.
