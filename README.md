@@ -97,13 +97,19 @@ Supports:
 
 ## 🛠️ Setup
 
+Install dependencies:
+
 ```bash
 pip install opencv-python python-dotenv openai
 ```
 
+Create a `.env` file in the project root:
+
 ```bash
-export OPENAI_API_KEY=your_key_here
+OPENAI_API_KEY=your_key_here
 ```
+
+> The script loads environment variables using `python-dotenv`, so the `.env` file must be in the working directory.
 
 ---
 
@@ -114,6 +120,18 @@ python Agent_Video_Processor_1.4.py
 ```
 
 ---
+
+## 🔐 Alternative: Environment Variable
+
+If you prefer not to use a `.env` file, you can set the API key directly:
+
+```bash
+# macOS / Linux
+export OPENAI_API_KEY=your_key_here
+
+# Windows (PowerShell)
+setx OPENAI_API_KEY "your_key_here"
+```
 
 ## 📁 Structure
 
