@@ -1,0 +1,123 @@
+[
+  {
+    "target_present": true,
+    "confidence": 0.84,
+    "notes": "A bright green sedan is partially visible at the far left edge of the frame.",
+    "filename": "frame_000_t0.00.jpg",
+    "usage": {
+      "input_tokens": 469,
+      "output_tokens": 40,
+      "total_tokens": 509
+    }
+  },
+  {
+    "target_present": true,
+    "confidence": 0.98,
+    "notes": "A bright green sedan is clearly visible in the left foreground of the frame, partially cropped.",
+    "filename": "frame_001_t1.00.jpg",
+    "usage": {
+      "input_tokens": 469,
+      "output_tokens": 42,
+      "total_tokens": 511
+    }
+  },
+  {
+    "target_present": true,
+    "confidence": 0.99,
+    "notes": "A bright green sedan is clearly visible in the foreground on the left side of the road.",
+    "filename": "frame_002_t2.00.jpg",
+    "usage": {
+      "input_tokens": 469,
+      "output_tokens": 42,
+      "total_tokens": 511
+    }
+  },
+  {
+    "target_present": true,
+    "confidence": 0.99,
+    "notes": "A bright green sedan is clearly visible in the foreground, occupying the center-left of the frame.",
+    "filename": "frame_003_t3.00.jpg",
+    "usage": {
+      "input_tokens": 469,
+      "output_tokens": 43,
+      "total_tokens": 512
+    }
+  },
+  {
+    "target_present": true,
+    "confidence": 0.99,
+    "notes": "A bright green sedan is clearly visible in the foreground of the frame.",
+    "filename": "frame_004_t4.00.jpg",
+    "usage": {
+      "input_tokens": 469,
+      "output_tokens": 38,
+      "total_tokens": 507
+    }
+  },
+  {
+    "target_present": true,
+    "confidence": 0.99,
+    "notes": "A bright green sedan is clearly visible in the right foreground of the frame.",
+    "filename": "frame_005_t5.00.jpg",
+    "usage": {
+      "input_tokens": 469,
+      "output_tokens": 39,
+      "total_tokens": 508
+    }
+  },
+  {
+    "target_present": true,
+    "confidence": 0.99,
+    "notes": "A bright green sedan is clearly visible in the right foreground of the frame.",
+    "filename": "frame_006_t6.00.jpg",
+    "usage": {
+      "input_tokens": 469,
+      "output_tokens": 39,
+      "total_tokens": 508
+    }
+  },
+  {
+    "target_present": false,
+    "confidence": 0.98,
+    "notes": "No bright green sedan is visible in the frame. The visible car appears silver/gray.",
+    "filename": "frame_007_t7.00.jpg",
+    "usage": {
+      "input_tokens": 469,
+      "output_tokens": 42,
+      "total_tokens": 511
+    }
+  },
+  {
+    "target_present": false,
+    "confidence": 0.98,
+    "notes": "The frame shows a blue SUV and a white/silver sedan; no bright green sedan is visible.",
+    "filename": "frame_008_t8.00.jpg",
+    "usage": {
+      "input_tokens": 469,
+      "output_tokens": 44,
+      "total_tokens": 513
+    }
+  },
+  {
+    "target_present": false,
+    "confidence": 0.98,
+    "notes": "No bright green sedan is visible. The frame shows a blue SUV/crossover, a red car partially visible, and a light-colored car in the distance.",
+    "filename": "frame_009_t9.00.jpg",
+    "usage": {
+      "input_tokens": 469,
+      "output_tokens": 55,
+      "total_tokens": 524
+    }
+  },
+  {
+    "target_present": false,
+    "confidence": 0.99,
+    "notes": "No bright green sedan is visible in the frame. Visible vehicles include a red sedan, a blue hatchback/SUV, and part of a silver car.",
+    "filename": "frame_010_t10.00.jpg",
+    "usage": {
+      "input_tokens": 469,
+      "output_tokens": 55,
+      "total_tokens": 524
+    }
+  }
+]
