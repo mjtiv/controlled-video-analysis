@@ -1,0 +1,12 @@
+filename,timestamp_sec,target_present,target_present_int,confidence,notes,input_tokens,output_tokens,total_tokens
+frame_000_t0.00.jpg,0.0,True,1,0.84,A bright green sedan is partially visible at the far left edge of the frame.,469,40,509
+frame_001_t1.00.jpg,1.0,True,1,0.98,"A bright green sedan is clearly visible in the left foreground of the frame, partially cropped.",469,42,511
+frame_002_t2.00.jpg,2.0,True,1,0.99,A bright green sedan is clearly visible in the foreground on the left side of the road.,469,42,511
+frame_003_t3.00.jpg,3.0,True,1,0.99,"A bright green sedan is clearly visible in the foreground, occupying the center-left of the frame.",469,43,512
+frame_004_t4.00.jpg,4.0,True,1,0.99,A bright green sedan is clearly visible in the foreground of the frame.,469,38,507
+frame_005_t5.00.jpg,5.0,True,1,0.99,A bright green sedan is clearly visible in the right foreground of the frame.,469,39,508
+frame_006_t6.00.jpg,6.0,True,1,0.99,A bright green sedan is clearly visible in the right foreground of the frame.,469,39,508
+frame_007_t7.00.jpg,7.0,False,0,0.98,No bright green sedan is visible in the frame. The visible car appears silver/gray.,469,42,511
+frame_008_t8.00.jpg,8.0,False,0,0.98,The frame shows a blue SUV and a white/silver sedan; no bright green sedan is visible.,469,44,513
+frame_009_t9.00.jpg,9.0,False,0,0.98,"No bright green sedan is visible. The frame shows a blue SUV/crossover, a red car partially visible, and a light-colored car in the distance.",469,55,524
+frame_010_t10.00.jpg,10.0,False,0,0.99,"No bright green sedan is visible in the frame. Visible vehicles include a red sedan, a blue hatchback/SUV, and part of a silver car.",469,55,524
