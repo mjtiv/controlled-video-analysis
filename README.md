@@ -170,7 +170,7 @@ Below is a full pipeline execution, showing:
 - token usage and cost tracking
 
 <p align="center">
-  <img src="docs/images/run_output.png" width="90%">
+  <img src="images/run_output.png" width="90%">
 </p>
 
 ---
