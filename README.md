@@ -132,6 +132,7 @@ export OPENAI_API_KEY=your_key_here
 # Windows (PowerShell)
 setx OPENAI_API_KEY "your_key_here"
 ```
+---
 
 ## 📁 Structure
 
