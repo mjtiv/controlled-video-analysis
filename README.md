@@ -216,6 +216,28 @@ This makes token tracking not just a cost metric, but a lightweight tool for mon
 
 ---
 
+## 🔮 Future Applications
+
+While this example demonstrates a simple object detection use case, the underlying pipeline is designed to be domain-agnostic and easily adaptable.
+
+Potential applications include:
+
+- **Legal discovery / forensic analysis**  
+  Frame-level review of video evidence with structured, auditable outputs  
+
+- **Bioinformatics / scientific imaging**  
+  Processing microscopy or experimental video data with reproducible analysis  
+
+- **Industrial monitoring**  
+  Detecting events or anomalies in manufacturing or surveillance footage  
+
+- **General video analytics pipelines**  
+  Any workflow requiring structured, frame-by-frame AI interpretation  
+
+The core design — deterministic processing, schema-constrained outputs, and traceable metadata — enables reliable use in environments where correctness and auditability matter.
+
+---
+
 ## 🧠 Design Philosophy
 
 AI should be **controlled, inspectable, and accountable** — not a black box.
