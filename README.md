@@ -197,7 +197,7 @@ Below is a tabular view of the results, showing:
 - structured notes for auditability
 
 <p align="center">
-  <img src="docs/images/example_table_output.png" width="95%">
+  <img src="images/example_table_output.png" width="95%">
 </p>
 
 These results are generated automatically from the JSON output and exported to CSV for easy filtering, sorting, and downstream analysis.
